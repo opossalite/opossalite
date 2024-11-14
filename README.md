@@ -1,5 +1,5 @@
 ## Welcome!
-I'm a NixOS user, trying to explore various programming languages for my personal projects. I'm most experienced with Rust and Python. I'm a huge believer in libre software, so you'll find GPL used on all my projects. Fork anything you find interesting.
+I'm a Linux user, trying to explore various programming languages for my personal projects. I'm most experienced with Rust and Python. I'm a huge believer in libre software, so you'll find GPL used on all my projects. Fork anything you find interesting.
 
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTerrior&count_private=true&show_icons=true)](https://github.com/TheTerrior)
 
